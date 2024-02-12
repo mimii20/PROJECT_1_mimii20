@@ -17,5 +17,15 @@ h1 {
   color: #ac5b68;
 }
 
+/* Text Alignment */
+h1 {
+  text-align: left;
+}
+
+p {
+  text-align: center;
+}
+
+
 /* This is a single-line comment. For more info on CSS, go to https://www.w3schools.com/css/default.asp. */
 
