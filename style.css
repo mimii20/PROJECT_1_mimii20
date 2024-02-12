@@ -29,5 +29,9 @@ body {
   text-align: center;
 }
 
+/* Font */
+p1 {
+  font-family: "Lucida Handwriting", Lucida, Cursive;
+}
 /* This is a single-line comment. For more info on CSS, go to https://www.w3schools.com/css/default.asp. */
 
