@@ -2,23 +2,25 @@
 p.outset {border-style: outset;}
 p.double {border-style: double;}
 
-/* Background Colors*/
+/* Text: Colors, Font, Size*/
 body {
   background-color: #ffefeb;
   color: #ac5b68;
   font-size: 18px;
 }
-
 h1 {
   background-color: #ffefeb;
+  color: #ac5b68;
+  font-size: 35px;
 }
 div {
   background-color: #ffccd4;
 }
-/* Text Colors */
-
-h1 {
-  color: #ac5b68;
+.p1 {
+  font-family: Copperplate, Copperplate, Serif;
+}
+.p2 {
+  font-family: Papyrus, Papyrus, Serif;
 }
 
 /* Text Alignment */
@@ -30,12 +32,5 @@ body {
   text-align: center;
 }
 
-/* Font */
-.p1 {
-  font-family: Copperplate, Copperplate, Serif;
-}
-.p2 {
-  font-family: Papyrus, Papyrus, Serif;
-}
 /* This is a single-line comment. For more info on CSS, go to https://www.w3schools.com/css/default.asp. */
 
