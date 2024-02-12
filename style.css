@@ -1,3 +1,7 @@
+
+p.outset {border-style: outset;}
+
+/* Background Colors*/
 body {
   background-color: #ffccd4;
 }
@@ -5,7 +9,7 @@ body {
 h1 {
   background-color: #ffddc4;
 }
-
+/* Normal Colors */
 body {
   color: #40302f;
 }
