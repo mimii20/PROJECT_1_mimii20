@@ -3,10 +3,13 @@ p.outset {border-style: outset;}
 
 /* Background Colors*/
 body {
-  background-color: #ffccd4;
+  background-color: #ffefeb;
 }
 
 h1 {
+  background-color: #ffefeb;
+}
+div {
   background-color: #ffccd4;
 }
 /* Text Colors */
