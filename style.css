@@ -1,5 +1,6 @@
 /* border stuff */
 p.outset {border-style: outset;}
+p.double {border-style: double;}
 
 /* Background Colors*/
 body {
