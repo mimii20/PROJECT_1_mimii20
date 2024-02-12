@@ -1,10 +1,5 @@
 /* border stuff */
 p.outset {border-style: outset;}
-p.outset {
-  border-style: solid;
-  border-color: #ac5b68;
-}
-
 
 /* Background Colors*/
 body {
