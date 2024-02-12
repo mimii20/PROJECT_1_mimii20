@@ -21,19 +21,19 @@ h1 {
 }
 
 /* Text Alignment */
-.p1 {
+h1 {
   text-align: center;
 }
 
-.p2 {
+body {
   text-align: center;
 }
 
 /* Font */
-h1 {
+.p1 {
   font-family: Copperplate, Copperplate, Serif;
 }
-body {
+.p2 {
   font-family: "Lucida Handwriting", Lucida, Serif;
 }
 /* This is a single-line comment. For more info on CSS, go to https://www.w3schools.com/css/default.asp. */
