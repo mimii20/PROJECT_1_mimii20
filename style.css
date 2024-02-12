@@ -5,6 +5,8 @@ p.double {border-style: double;}
 /* Background Colors*/
 body {
   background-color: #ffefeb;
+  color: #ac5b68;
+  font-size: 18px;
 }
 
 h1 {
@@ -14,9 +16,7 @@ div {
   background-color: #ffccd4;
 }
 /* Text Colors */
-body {
-  color: #ac5b68;
-}
+
 h1 {
   color: #ac5b68;
 }
