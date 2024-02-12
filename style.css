@@ -21,11 +21,11 @@ h1 {
 }
 
 /* Text Alignment */
-h1 {
+.p1 {
   text-align: center;
 }
 
-body {
+.p2 {
   text-align: center;
 }
 
