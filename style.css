@@ -1,7 +1,3 @@
-/* border stuff */
-p.outset {border-style: outset;}
-p.double {border-style: double;}
-
 /* Text: Colors, Font, Size*/
 body {
   font-size: 20;
