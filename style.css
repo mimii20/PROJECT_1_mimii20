@@ -35,5 +35,13 @@ span.a {
   border: 5 #f1dadb;  
   background-color: #fde4e5; 
 }
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+
+}
 /* This is a single-line comment. For more info on CSS, go to https://www.w3schools.com/css/default.asp. */
 
